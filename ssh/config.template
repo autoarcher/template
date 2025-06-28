@@ -1,0 +1,5 @@
+Host some_host
+    HostName some_hostname
+    User some_user
+    IdentityFile some_identity_file
+    ProxyCommand "something like \Git\mingw64\bin\connect.exe" -S 127.0.0.1:10808 %h %p

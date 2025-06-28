@@ -1,2 +1,3 @@
-# template
-File template for convenience.
+# Template
+
+Various templates for convenience.
